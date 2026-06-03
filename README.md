@@ -1,2 +1,2 @@
-# -DecodeLabs-Internship
+DecodeLabs-Internship
 Responsive frontend internship project
